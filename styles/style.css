@@ -340,7 +340,6 @@
   animation: sparks 0.3s ease-in 0.3s 1 alternate;
 }
 
-/* Mobile */
 @media (width <= 375px) {
   .block {
     width: min(var(--block-width), 100%);
